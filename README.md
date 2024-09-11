@@ -40,6 +40,3 @@ This repository contains my completed project for the BCG X GenAI Job Simulation
 
 ## Certificate
 I successfully completed the BCG X GenAI Job Simulation and received a certificate of completion for my work on this project. 
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
